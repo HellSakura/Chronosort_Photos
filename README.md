@@ -27,12 +27,10 @@ A Python script to rename photo files based on their EXIF date or file modificat
     ```bash
     python chronosort_photos.py
     ```
-    This opens a GUI and a dedicated log window.
-
 3.  **Select a Folder**
-    *   In the file dialog, choose the folder with your photos.
+    *   Choose the folder with your photos.
 
 4.  **Review the Preview**
-    *   Check the log window for all planned renames.
+    *   Check for all planned renames.
 
 5.  **Confirm the Operation**
